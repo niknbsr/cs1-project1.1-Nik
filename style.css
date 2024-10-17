@@ -1,1 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
+p {
+    color:rgb(0, 0, 0);
+    font-family: arial;
+    font-weight: 900;   
+    font-style: italic;
+}
+
+body {
+    background-color: aqua;
+}
+
+.border {
+    border: 2px solid black;
+    background-color: yellow;
+}
+
+#kaak {
+    color:rgb(255, 255, 255);
+    border: 2px dotted yellow;
+    background-color: black;
+}
